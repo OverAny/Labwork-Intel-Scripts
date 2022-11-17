@@ -1,0 +1,6 @@
+Correct Item,Correct Item Value,RH #1,RH #1 Value,RH #2,RH #2 Value,RH #3,RH #3 Value,RH #4,RH #4 Value,Result
+bus,0.9973158,teapot,0.0008443103,dolphin,6.755786e-05,hand,0.00021938383,pork,0.0015529806,PASS!
+car,0.8869918,razor,0.0069853486,rug,0.020687254,answering,0.07493002,daily,0.010405519,PASS!
+book,0.99165034,dress,0.00019853603,gar,0.0046515847,lock,0.002782745,meadowlark,0.00071683456,PASS!
+cow,0.97126997,silverware,0.00796205,blower,0.004970265,pillow,0.014455685,faucet,0.0013420248,PASS!
+-,-,-,-,-,-,-,-,-,-,-

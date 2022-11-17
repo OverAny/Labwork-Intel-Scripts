@@ -1,0 +1,6 @@
+Correct Item,Correct Item Value,RH #1,RH #1 Value,RH #2,RH #2 Value,RH #3,RH #3 Value,RH #4,RH #4 Value,Result
+bus,0.9992525,calculator,6.1029565e-05,otter,6.8115936e-05,picnic,0.000613375,egret,5.0297654e-06,PASS!
+car,0.99653876,tape,0.0029452208,gardening,2.3023244e-05,bluebird,9.6736345e-05,tiger,0.0003962534,PASS!
+book,0.661358,scarf,0.02439081,armchair,0.014086046,flea,0.28897607,straightener,0.011189164,PASS!
+cow,0.91164905,stereo,0.004860366,table,0.04204265,drill,0.0044474523,green,0.03700039,PASS!
+-,-,-,-,-,-,-,-,-,-,-

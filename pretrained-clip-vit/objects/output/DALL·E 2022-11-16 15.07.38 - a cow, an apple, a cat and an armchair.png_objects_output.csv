@@ -1,0 +1,6 @@
+Correct Item,Correct Item Value,RH #1,RH #1 Value,RH #2,RH #2 Value,RH #3,RH #3 Value,RH #4,RH #4 Value,Result
+cow,0.98293936,junco,0.010240758,chandelier,0.00061875815,plunger,0.0061034304,hawk,9.7603806e-05,PASS!
+apple,0.869792,hairbrush,0.10428225,scallop,0.00023859051,cat,0.02544251,harrier,0.00024470434,PASS!
+cat,0.05804418,charadriiformes,0.0018595847,meatball,0.012904261,juicer,0.924729,plover,0.00246296,FAIL!
+armchair.,0.802974,sleeping,0.12440257,dowitcher,1.9719464e-05,nightstand,0.038009886,swan,0.034593873,PASS!
+-,-,-,-,-,-,-,-,-,-,-

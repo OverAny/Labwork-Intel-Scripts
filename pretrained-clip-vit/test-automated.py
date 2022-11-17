@@ -66,7 +66,7 @@ for i in lists:
     if (result):
         print(" ## " + i[0] + ": " + "PASS!")
     else: 
-        print(" ## " + i[0] + ": " + "PASS!")
+        print(" ## " + i[0] + ": " + "FAIL!")
 
 print("----------------------")    
 

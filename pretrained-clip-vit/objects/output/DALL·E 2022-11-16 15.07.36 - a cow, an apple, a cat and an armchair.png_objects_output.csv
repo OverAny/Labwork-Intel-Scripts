@@ -1,0 +1,6 @@
+Correct Item,Correct Item Value,RH #1,RH #1 Value,RH #2,RH #2 Value,RH #3,RH #3 Value,RH #4,RH #4 Value,Result
+cow,0.9392585,wheelbarrow,0.060648553,swimsuit,7.019876e-05,albatross,2.2603683e-05,bittern,7.800509e-08,PASS!
+apple,0.79585093,tub,0.017567234,banana,0.089508645,rug,0.09697908,box turtle,9.409171e-05,PASS!
+cat,0.802502,pressure,0.035828706,flea,0.06904524,echidna,0.0038473557,haddock,0.08877666,PASS!
+armchair.,0.98707086,butter,0.0047587682,orange,0.003991121,egret,9.841258e-07,dustpan,0.004178333,PASS!
+-,-,-,-,-,-,-,-,-,-,-

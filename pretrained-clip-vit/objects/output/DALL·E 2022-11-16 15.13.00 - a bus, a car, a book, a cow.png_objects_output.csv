@@ -1,0 +1,6 @@
+Correct Item,Correct Item Value,RH #1,RH #1 Value,RH #2,RH #2 Value,RH #3,RH #3 Value,RH #4,RH #4 Value,Result
+bus,0.999833,floss,1.0636574e-05,perch,1.967093e-05,corn,0.00012643075,makeup,1.0239166e-05,PASS!
+car,0.99780613,damselfly,5.733544e-06,makeup,0.00093106256,sandpiper,7.835022e-05,light,0.0011787459,PASS!
+book,0.94536453,caiman,0.009139398,brush,0.008681268,pie,0.0039170836,furniture,0.032897677,PASS!
+cow,0.98549205,ruler,0.0003207035,carpet,0.012214046,skateboard,0.0014381846,rope,0.00053497835,PASS!
+-,-,-,-,-,-,-,-,-,-,-
