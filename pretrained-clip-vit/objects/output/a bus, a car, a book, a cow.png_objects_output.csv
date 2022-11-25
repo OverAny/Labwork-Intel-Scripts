@@ -1,0 +1,6 @@
+Correct Item,Correct Item Value,RH #1,RH #1 Value,RH #2,RH #2 Value,RH #3,RH #3 Value,RH #4,RH #4 Value,Result
+bus,0.99620265,sketch,0.0026249657,dustpan,0.00019616663,macaw,0.00026490894,giraffe,0.00071120093,PASS!
+car,0.97029704,tea,0.009377207,egret,3.3289987e-05,alarm,0.017417807,crow,0.0028745343,PASS!
+book,0.9146215,beaver,0.009038348,sketch,0.013869343,lizard,0.00043579168,board,0.062035024,PASS!
+cow,0.86079645,gaming,0.0103980005,dress,0.0015031659,mackerel,0.00201977,toy,0.1252826,PASS!
+-,-,-,-,-,-,-,-,-,-,-
